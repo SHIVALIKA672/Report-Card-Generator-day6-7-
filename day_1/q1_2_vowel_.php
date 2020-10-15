@@ -1,5 +1,5 @@
 <?php
-    $alphabet='E';
+    $alphabet='B';
 
       switch($alphabet)
     {
